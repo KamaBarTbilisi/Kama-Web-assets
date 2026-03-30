@@ -71,7 +71,20 @@
       }
     }
   ],
-  "faqs": [],
+  "faqs": [
+    {
+      "id": "jsu4f3727",
+      "order": 0,
+      "en": {
+        "question": "tu xedav amas mashin mushaobs cms",
+        "answer": "tu xedav amas mashin mushaobs cms"
+      },
+      "ka": {
+        "question": "tu xedav amas mashin mushaobs cms",
+        "answer": "tu xedav amas mashin mushaobs cms"
+      }
+    }
+  ],
   "reviews": [
     {
       "id": "e3vsyz7kx",
