@@ -1,10 +1,10 @@
 {
   "products": [
     {
-      "id": "1",
-      "image": "https://raw.githubusercontent.com/KamaBarTbilisi/Kama-Web-assets/main/menu/salad1.jpg",
-      "category_en": "Salad",
-      "category_ka": "სალათი",
+      "id": "8s0xbktr6",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Automn%20Chicken%20Salad%201.png",
+      "category_ka": "კრემ-სუპი",
+      "category_en": "Cream-soup",
       "en": {
         "name": "Kama Salad",
         "description": [
@@ -13,7 +13,7 @@
           "Special dressing"
         ],
         "nutrition": "250 kcal",
-        "category": "Salad"
+        "category": "Cream-soup"
       },
       "ka": {
         "name": "კამა სალათი",
@@ -23,7 +23,51 @@
           "სპეციალური დრესინგი"
         ],
         "nutrition": "250 კკალ",
-        "category": "სალათი"
+        "category": "კრემ-სუპი"
+      }
+    },
+    {
+      "id": "molmpekto",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Automn%20Chicken%20Salad%201.png",
+      "category_ka": "ბოული",
+      "category_en": "Bowl",
+      "en": {
+        "name": "კამა სალათი",
+        "description": [
+          "კამა სალათი"
+        ],
+        "nutrition": "კამა სალათი",
+        "category": "Bowl"
+      },
+      "ka": {
+        "name": "კამა სალათი",
+        "description": [
+          "კამა სალათი"
+        ],
+        "nutrition": "კამა სალათი",
+        "category": "ბოული"
+      }
+    },
+    {
+      "id": "rif6zz5x1",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Automn%20Chicken%20Salad%201.png",
+      "category_ka": "სენდვიჩები",
+      "category_en": "Sandwich",
+      "en": {
+        "name": "კამა სალათი",
+        "description": [
+          "კამა სალათი"
+        ],
+        "nutrition": "კამა სალათი",
+        "category": "Sandwich"
+      },
+      "ka": {
+        "name": "კამა სალათი",
+        "description": [
+          "კამა სალათი"
+        ],
+        "nutrition": "კამა სალათი",
+        "category": "სენდვიჩები"
       }
     }
   ],
