@@ -7,13 +7,21 @@
       "category_ka": "სალათი",
       "en": {
         "name": "Kama Salad",
-        "description": ["Fresh greens", "Cherry tomatoes", "Special dressing"],
+        "description": [
+          "Fresh greens",
+          "Cherry tomatoes",
+          "Special dressing"
+        ],
         "nutrition": "250 kcal",
         "category": "Salad"
       },
       "ka": {
         "name": "კამა სალათი",
-        "description": ["ახალი მწვანილი", "ჩერი პომიდორი", "სპეციალური დრესინგი"],
+        "description": [
+          "ახალი მწვანილი",
+          "ჩერი პომიდორი",
+          "სპეციალური დრესინგი"
+        ],
         "nutrition": "250 კკალ",
         "category": "სალათი"
       }
@@ -21,8 +29,8 @@
   ],
   "faqs": [
     {
-      "id": "1",
-      "order": 1,
+      "id": "eji8ai9sz",
+      "order": 0,
       "en": {
         "question": "What are your opening hours?",
         "answer": "We are open from 10:00 AM to 11:00 PM every day."
@@ -30,6 +38,42 @@
       "ka": {
         "question": "რა დროს მუშაობთ?",
         "answer": "ჩვენ ვმუშაობთ ყოველდღე 10:00-დან 23:00-მდე."
+      }
+    },
+    {
+      "id": "v5co74n46",
+      "order": 1,
+      "en": {
+        "question": "shota amas xedav?",
+        "answer": "shota amas xedav?"
+      },
+      "ka": {
+        "question": "shota amas xedav?",
+        "answer": "shota amas xedav?"
+      }
+    },
+    {
+      "id": "wlwump4i1",
+      "order": 2,
+      "en": {
+        "question": "shota amas xedav?",
+        "answer": "shota amas xedav?"
+      },
+      "ka": {
+        "question": "shota amas xedav?",
+        "answer": "shota amas xedav?"
+      }
+    },
+    {
+      "id": "w6jznra7m",
+      "order": 3,
+      "en": {
+        "question": "shota amas xedav?",
+        "answer": "shota amas xedav?"
+      },
+      "ka": {
+        "question": "shota amas xedav?",
+        "answer": "shota amas xedav?"
       }
     }
   ],
