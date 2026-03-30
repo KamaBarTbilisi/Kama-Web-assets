@@ -29,44 +29,20 @@
   ],
   "faqs": [
     {
-      "id": "eji8ai9sz",
+      "id": "klxhm4woc",
       "order": 0,
       "en": {
-        "question": "What are your opening hours?",
-        "answer": "We are open from 10:00 AM to 11:00 PM every day."
+        "question": "shota amas xedav?",
+        "answer": "shota amas xedav?"
       },
       "ka": {
-        "question": "რა დროს მუშაობთ?",
-        "answer": "ჩვენ ვმუშაობთ ყოველდღე 10:00-დან 23:00-მდე."
+        "question": "shota amas xedav?",
+        "answer": "shota amas xedav?"
       }
     },
     {
-      "id": "v5co74n46",
+      "id": "evaowtulw",
       "order": 1,
-      "en": {
-        "question": "shota amas xedav?",
-        "answer": "shota amas xedav?"
-      },
-      "ka": {
-        "question": "shota amas xedav?",
-        "answer": "shota amas xedav?"
-      }
-    },
-    {
-      "id": "wlwump4i1",
-      "order": 2,
-      "en": {
-        "question": "shota amas xedav?",
-        "answer": "shota amas xedav?"
-      },
-      "ka": {
-        "question": "shota amas xedav?",
-        "answer": "shota amas xedav?"
-      }
-    },
-    {
-      "id": "w6jznra7m",
-      "order": 3,
       "en": {
         "question": "shota amas xedav?",
         "answer": "shota amas xedav?"
