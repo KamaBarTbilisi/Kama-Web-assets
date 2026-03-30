@@ -71,32 +71,7 @@
       }
     }
   ],
-  "faqs": [
-    {
-      "id": "qofop2tsp",
-      "order": 0,
-      "en": {
-        "question": "shota amas xedav?",
-        "answer": "shota amas xedav?"
-      },
-      "ka": {
-        "question": "shota amas xedav?",
-        "answer": "shota amas xedav?"
-      }
-    },
-    {
-      "id": "f2529dn7i",
-      "order": 1,
-      "en": {
-        "question": "shota amas xedav?",
-        "answer": "shota amas xedav?"
-      },
-      "ka": {
-        "question": "shota amas xedav?",
-        "answer": "shota amas xedav?"
-      }
-    }
-  ],
+  "faqs": [],
   "reviews": [
     {
       "id": "u44fr036h",
