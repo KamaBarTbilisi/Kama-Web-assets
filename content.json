@@ -73,8 +73,20 @@
   ],
   "faqs": [
     {
-      "id": "1s9a25rw8",
+      "id": "qh22looip",
       "order": 0,
+      "en": {
+        "question": "tu xedav amas mashin mushaobs cms",
+        "answer": "tu xedav amas mashin mushaobs cms"
+      },
+      "ka": {
+        "question": "tu xedav amas mashin mushaobs cms",
+        "answer": "tu xedav amas mashin mushaobs cms"
+      }
+    },
+    {
+      "id": "ozf7b5aqc",
+      "order": 1,
       "en": {
         "question": "tu xedav amas mashin mushaobs cms",
         "answer": "tu xedav amas mashin mushaobs cms"
