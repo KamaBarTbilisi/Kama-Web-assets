@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": "sjled0xz6",
+      "id": "i85srolym",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Automn%20Chicken%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -13,13 +13,26 @@
       },
       "ka": {
         "name": "შემოდგომის სალათი ქათმით",
-        "description": [],
+        "description": [
+          "საფირმო სალათის მიქსი",
+          "დამარინადებული",
+          "გრილზე შემწვარი ქათმის მკერდი",
+          "წითელი კომბოსტო",
+          "სტაფილო",
+          "გამომცხვარი გოგრა",
+          "ავოკადო",
+          "ფინიკი",
+          "დამარინადებული",
+          "ხახვი",
+          "სეზამი",
+          "ცხარე თაფლისა და დიჟონის სოუსი."
+        ],
         "nutrition": "",
         "category": ""
       }
     },
     {
-      "id": "5n4g3eqxy",
+      "id": "wrdp0vsu7",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Chicken%20Crunchy%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -37,7 +50,7 @@
       }
     },
     {
-      "id": "4t7q0akjd",
+      "id": "3k9klmqhy",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Chicken%20Guacamole%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -55,7 +68,7 @@
       }
     },
     {
-      "id": "rivww66jo",
+      "id": "7gqwfrn65",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Spicy%20Cashew%20Chicken%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -73,7 +86,7 @@
       }
     },
     {
-      "id": "534frso8n",
+      "id": "np06ypox4",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%235_Garden%20Pesto%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -91,7 +104,7 @@
       }
     },
     {
-      "id": "tyitrd6mo",
+      "id": "3116wbj05",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%236_Super%20Vegie%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -109,7 +122,7 @@
       }
     },
     {
-      "id": "kpujr5jtj",
+      "id": "i944xc6qb",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Mediterenean%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
@@ -127,7 +140,7 @@
       }
     },
     {
-      "id": "oimbl6hsc",
+      "id": "mamvss7u7",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Asian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
@@ -145,7 +158,7 @@
       }
     },
     {
-      "id": "e20474jcz",
+      "id": "invlmdqzs",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Scandinavian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
@@ -163,7 +176,7 @@
       }
     },
     {
-      "id": "nlwnbh0mc",
+      "id": "7wxecj0og",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Georgian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
@@ -181,7 +194,7 @@
       }
     },
     {
-      "id": "8aiijhn6q",
+      "id": "rai08jayh",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Tomato%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -199,7 +212,7 @@
       }
     },
     {
-      "id": "eva2ya4dy",
+      "id": "g4hj4rb1q",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Broccoli%201.png",
       "category_ka": "",
       "category_en": "",
@@ -217,7 +230,7 @@
       }
     },
     {
-      "id": "przpdm3q6",
+      "id": "p9ynbatcl",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Pumpkin%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -235,7 +248,7 @@
       }
     },
     {
-      "id": "jlc1nqkid",
+      "id": "84irkerv6",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Beetroot%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -253,7 +266,7 @@
       }
     },
     {
-      "id": "esm0li2ng",
+      "id": "ph254o4vg",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%235_Mushroom%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -271,7 +284,7 @@
       }
     },
     {
-      "id": "55frhn5tj",
+      "id": "pqhnx3uiq",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%236_Lentils%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
