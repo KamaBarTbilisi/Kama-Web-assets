@@ -633,47 +633,69 @@
   ],
   "reviews": [
     {
-      "id": "e3vsyz7kx",
+      "id": "3tskuwvrq",
       "en": {
-        "name": "xedqav amas",
-        "text": "xedqav amas"
+        "name": "George B.",
+        "text": "\"By far the best healthy meal I’ve had in Tbilisi. The Georgian Bowl is a game changer.\""
       },
       "ka": {
-        "name": "xedqav amas",
-        "text": "xedqav amas"
+        "name": "გიორგი ბ.",
+        "text": "\"საუკეთესო ჯანსაღი საკვებია თბილისში. ქართული ბოული ჩემი ფავორიტია.\""
       }
     },
     {
-      "id": "3s3twkq9n",
+      "id": "creb0xdwb",
       "en": {
-        "name": "xedqav amas",
-        "text": "xedqav amas"
+        "name": "Sophie M.",
+        "text": "\"The macro breakdown is so helpful for my training. Fresh, fast, and actually filling.\""
       },
       "ka": {
-        "name": "xedqav amas",
-        "text": "xedqav amas"
+        "name": "სოფო მ.",
+        "text": "\"მაკრონუტრიენტების დათვლა ძალიან მეხმარება ვარჯიშისას. ყოველთვის ახალი და ნოყიერია.\""
       }
     },
     {
-      "id": "4rfen2sq1",
+      "id": "i0k129f2o",
       "en": {
-        "name": "xedqav amas",
-        "text": "xedqav amas"
+        "name": "Luka K.",
+        "text": "\"Finally a place that uses Jonjoli in a modern way! Authentic flavors in a clean bowl.\""
       },
       "ka": {
-        "name": "xedqav amas",
-        "text": "xedqav amas"
+        "name": "ლუკა კ.",
+        "text": "\"როგორც იქნა ადგილი, სადაც ჯონჯოლს თანამედროვედ იყენებენ! ნამდვილი გემოები სუფთა ბოულში.\""
       }
     },
     {
-      "id": "ssu2q5qgg",
+      "id": "iavj83ej9",
       "en": {
-        "name": "xedqav amas",
-        "text": "xedqav amas"
+        "name": "Elena R.",
+        "text": "\"The pumpkin soup with cheese toast is the ultimate comfort food. Highly recommend.\""
       },
       "ka": {
-        "name": "xedqav amas",
-        "text": "xedqav amas"
+        "name": "ელენე რ.",
+        "text": "\"გოგრის სუპი ყველის ტოსტთან ერთად საუკეთესო კომფორტ ფუდია. ყველას ვურჩევ.\""
+      }
+    },
+    {
+      "id": "j0xvovlrj",
+      "en": {
+        "name": "David T.",
+        "text": "\"Clean ingredients and bold dressings. Kama is my daily go-to for office lunch.\""
+      },
+      "ka": {
+        "name": "დათო თ.",
+        "text": "\"სუფთა ინგრედიენტები და საფირმო სოუსები. კამა ჩემი ყოველდღიური ლანჩის არჩევანია.\""
+      }
+    },
+    {
+      "id": "4fbpworo6",
+      "en": {
+        "name": "Anna S.",
+        "text": "\"Minimalist vibe, maximum flavor. Love the Spicy Cashew Pesto on everything.\""
+      },
+      "ka": {
+        "name": "ანა ს.",
+        "text": "\"მინიმალისტური ვაიბი და მაქსიმალური გემო. ქეშიუს ცხარე პესტო ყველაფერს უხდება.\""
       }
     }
   ],
