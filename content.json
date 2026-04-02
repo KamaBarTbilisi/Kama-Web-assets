@@ -1,288 +1,427 @@
 {
   "products": [
     {
-      "id": "1t09fsj88",
+      "id": "nqsm94fa1",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Automn%20Chicken%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Autumn Chicken Salad",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
-        "description": [],
-        "nutrition": "",
+        "name": "შემოდგომის სალათი ქათმით",
+        "description": [
+          "საფირმო სალათის მიქსი",
+          "დამარინადებული",
+          "გრილზე შემწვარი ქათმის მკერდი",
+          "წითელი კომბოსტო",
+          "სტაფილო",
+          "გამომცხვარი გოგრა",
+          "ავოკადო",
+          "ფინიკი",
+          "დამარინადებული",
+          "ხახვი",
+          "სეზამი",
+          "ცხარე თაფლისა და დიჟონის სოუსი."
+        ],
+        "nutrition": "კალორია: ≈ 573 კკლ | პროტეინი: ≈ 43.0 გრ | ცხიმი: ≈ 26.2 გრ | ნახშირწყლები: ≈ 47.4 გრ | შაქარი: ≈ 31.4 გრ",
         "category": ""
       }
     },
     {
-      "id": "kj3plb8tb",
+      "id": "ephhjow4v",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Chicken%20Crunchy%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Chicken Crunchy Salad",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
-        "description": [],
-        "nutrition": "",
+        "name": "ქათმის ხრაშუნა სალათი",
+        "description": [
+          "საფირმო სალათის მიქსი",
+          "დამარინადებული",
+          "გრილზე შემწვარი ქათმის მკერდი",
+          "კიტრი",
+          "ჩერი",
+          "ყაბაყი",
+          "მუხუდო",
+          "ავოკადო",
+          "წითელი ვაშლი",
+          "დამარინადებული",
+          "ხახვი",
+          "ნუში",
+          "ცხარე თაფლისა და დიჟონის სოუსი."
+        ],
+        "nutrition": "კალორია: ≈ 555 კკლ | პროტეინი: ≈ 42.0 გრ | ცხიმი: ≈ 26 გრ | ნახშირწყლები: ≈ 46 გრ | შაქარი: ≈ 29 გრ",
         "category": ""
       }
     },
     {
-      "id": "rk380l6na",
+      "id": "8rcknnewl",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Chicken%20Guacamole%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Chicken Guacamole Salad",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
-        "description": [],
-        "nutrition": "",
+        "name": "ქათმის სალათი გუაკამოლეთი",
+        "description": [
+          "სალათის საფირმო მიქსი",
+          "დამარინადებული",
+          "გრილზე შემწვარი ქათმის მკერდი",
+          "წითელი კომბოსტო",
+          "ჩერი",
+          "წითელი ხახვი",
+          "გუაკამოლე",
+          "ლავაშის ჩიფსი",
+          "მზესუმზირა",
+          "ლაიმის და ქინძის ვინეგრეტი."
+        ],
+        "nutrition": "კალორია: ≈ 565 კკლ | პროტეინი: ≈ 42.0 გრ | ცხიმი: ≈ 30 გრ | ნახშირწყლები: ≈ 43 გრ | შაქარი: ≈ 15 გრ",
         "category": ""
       }
     },
     {
-      "id": "ha8op3bri",
+      "id": "vfk8tw40g",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Spicy%20Cashew%20Chicken%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Spicy Cashew Chicken Salad",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
-        "description": [],
-        "nutrition": "",
+        "name": "ცხარე ქეშიუსა და ქათმის სალათი",
+        "description": [
+          "სალათის საფირმო მიქსი",
+          "დამარინადებული",
+          "გრილზე შემწვარი ქათმის მკერდი",
+          "ტკბილი კარტოფილი",
+          "ბროკოლი",
+          "ფეტა",
+          "ავოკადო",
+          "ქლიავის ჩირი",
+          "ნუში",
+          "წითელი ვაშლი",
+          "ცხარე ქეშიუს პესტო."
+        ],
+        "nutrition": "კალორია: ≈ 580 კკლ | პროტეინი: ≈ 42.0 გრ | ცხიმი: ≈ 28 გრ | ნახშირწყლები: ≈ 49 გრ | შაქარი: ≈ 22 გრ",
         "category": ""
       }
     },
     {
-      "id": "cevhoo0eq",
+      "id": "czl7u1pwu",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%235_Garden%20Pesto%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Garden Pesto Salad",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
-        "description": [],
-        "nutrition": "",
+        "name": "ბაღის სალათი პესტოთი",
+        "description": [
+          "სალათის საფირმო მიქსი",
+          "მუხუდო",
+          "წითელი ლობიო",
+          "ჩერი",
+          "ბროკოლი",
+          "სტაფილო",
+          "ავოკადო",
+          "ფეტა",
+          "მწვანე ვაშლი",
+          "ჯონჯოლი",
+          "ნუში",
+          "ცხარე ქეშიუს პესტო."
+        ],
+        "nutrition": "ალორია: ≈ 550 კკლ | პროტეინი: ≈ 23.0 გრ | ცხიმი: ≈ 27 გრ | ნახშირწყლები: ≈ 53 გრ | შაქარი: ≈ 24 გრ",
         "category": ""
       }
     },
     {
-      "id": "s624qe7nr",
+      "id": "lh403lwmi",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%236_Super%20Vegie%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Super Vegie Salad",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
-        "description": [],
-        "nutrition": "",
+        "name": "სუპერ ვეჯი სალათი",
+        "description": [
+          "სალათის საფირმო მიქსი",
+          "ჩერი",
+          "კიტრი",
+          "წითელი კომბოსტო",
+          "წითელი ხახვი",
+          "სტაფილო",
+          "მუხუდო",
+          "წითელი ლობიო",
+          "ქინოას მიქსი",
+          "ავოკადო",
+          "პარმეზანი",
+          "მსხალი",
+          "ჯონჯოლი",
+          "ნიგოზი",
+          "ბალზამიკოს ვინეგრეტი."
+        ],
+        "nutrition": "კალორია: ≈ 605 კკლ | პროტეინი: ≈ 28.0 გრ | ცხიმი: ≈ 28 გრ | ნახშირწყლები: ≈ 68 გრ | შაქარი: ≈ 30 გრ",
         "category": ""
       }
     },
     {
-      "id": "s64boqmb6",
+      "id": "3muixqm5p",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Mediterenean%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Mediterranean Bowl",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
-        "description": [],
-        "nutrition": "",
+        "name": "ხმელთაშუა ბოული",
+        "description": [
+          "ხმელთაშუა მარცვლეულის მიქსი",
+          "დამარინადებული",
+          "გრილზე შემწვარი ქათმის მკერდი",
+          "ჩერი",
+          "კიტრი",
+          "წითელი ხახვი",
+          "ავოკადო",
+          "ფეტა",
+          "ლიმონის",
+          "ოხრახუში",
+          "რუკოლა",
+          "მწვანე ზეთისხილი",
+          "გოგრის თესლი",
+          "ლაიმის და ზეითუნის ვინეგრეტი."
+        ],
+        "nutrition": "კალორია: ≈ 615 კკლ | პროტეინი: ≈ 44.0 გრ | ცხიმი: ≈ 27 გრ | ნახშირწყლები: ≈ 50 გრ | შაქარი: ≈ 13 გრ",
         "category": ""
       }
     },
     {
-      "id": "oup974kux",
+      "id": "cxxxcra0k",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Asian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Asian Bowl",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
-        "description": [],
-        "nutrition": "",
+        "name": "აზიური ბოული",
+        "description": [
+          "აზიური მარცვლეულის მიქსი",
+          "დამარინადებული",
+          "გრილზე შემწვარი ქათმის მკერდი",
+          "ჩერი",
+          "კიტრი",
+          "წითელი კომბოსტო",
+          "სტაფილო",
+          "ბროკოლი",
+          "ყაბაყი",
+          "ავოკადო",
+          "სიმინდი",
+          "ოხრახუში",
+          "სეზამი",
+          "ცხარე თაფლისა და დიჟონის სოუსი."
+        ],
+        "nutrition": "კალორია: ≈ 630 კკლ | პროტეინი: ≈ 45.0 გრ | ცხიმი: ≈ 25 გრ | ნახშირწყლები: ≈ 64 გრ | შაქარი: ≈ 20 გრ",
         "category": ""
       }
     },
     {
-      "id": "l4wvsd5dx",
+      "id": "au1apmvb4",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Scandinavian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Scandinavian Bowl",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
-        "description": [],
-        "nutrition": "",
+        "name": "სკანდინავიური ბოული",
+        "description": [
+          "სკანდინავიური მარცვლეულის მიქსი",
+          "დამარინადებული",
+          "გრილზე შემწვარი ქათმის მკერდი",
+          "ჩერი",
+          "კიტრი",
+          "ბროკოლი",
+          "თეთრი ლობიო",
+          "ავოკადო",
+          "მსხალი",
+          "რუკოლა",
+          "დამარინადებული ხახვი",
+          "ნიგოზი",
+          "პარმეზანი",
+          "ცხარე ქეშიუს პესტო."
+        ],
+        "nutrition": "კალორია: ≈ 585 კკლ | პროტეინი: ≈ 44.0 გრ | ცხიმი: ≈ 29 გრ | ნახშირწყლები: ≈ 42გრ | შაქარი: ≈ 15 გრ",
         "category": ""
       }
     },
     {
-      "id": "v5x7jfk6g",
+      "id": "2b7dsp39q",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Georgian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Georgian Bowl",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
-        "description": [],
-        "nutrition": "",
+        "name": "ქართული ბოული",
+        "description": [
+          "ქართული მარცვლეულის მიქსი",
+          "დამარინადებული",
+          "გრილზე შემწვარი ქათმის მკერდი",
+          "ჩერი",
+          "კიტრი",
+          "ბროკოლი",
+          "ავოკადო",
+          "ჯონჯოლი",
+          "ვაშლი",
+          "ფეტა",
+          "რუკოლა",
+          "ოხრახუში",
+          "მზესუმზირა",
+          "ცხარე ქეშიუს პესტო."
+        ],
+        "nutrition": "კალორია: ≈ 610 კკლ | პროტეინი: ≈ 44.0 გრ | ცხიმი: ≈ 31 გრ | ნახშირწყლები: ≈ 48 გრ | შაქარი: ≈ 25 გრ",
         "category": ""
       }
     },
     {
-      "id": "l4rk9n7wp",
+      "id": "xli9rf8jh",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Tomato%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Tomato Cream-Soup with Cheese Toast",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
+        "name": "პომიდვრის კრემ-სუპი ყველის ტოსტით",
         "description": [],
-        "nutrition": "",
+        "nutrition": "კალორია: ≈ 125 კკლ | პროტეინი: ≈ 3.0 გრ | ცხიმი: ≈ 6 გრ | ნახშირწყლები: ≈ 16 გრ | შაქარი: ≈ 9 გრ",
         "category": ""
       }
     },
     {
-      "id": "1hjl7n2bo",
+      "id": "uslshdfw1",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Broccoli%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Broccoli Cream-Soup with Cheese Toast",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
+        "name": "ბროკოლის კრემ-სუპი ყველის ტოსტით",
         "description": [],
-        "nutrition": "",
+        "nutrition": "კალორია: ≈ 260 კკლ | პროტეინი: ≈ 6.0 გრ | ცხიმი: ≈ 17 გრ | ნახშირწყლები: ≈ 22 გრ | შაქარი: ≈ 5 გრ",
         "category": ""
       }
     },
     {
-      "id": "r258231kc",
+      "id": "z6qaeg427",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Pumpkin%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Pumpkin Cream-Soup with Cheese Toast",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
+        "name": "გოგრის კრემ-სუპი ყველის ტოსტით",
         "description": [],
         "nutrition": "",
         "category": ""
       }
     },
     {
-      "id": "7qod1s5zh",
+      "id": "1wzuv3vb4",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Beetroot%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Beetroot Cream-Soup with Cheese Toast",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
+        "name": "ჭარხლის კრემ-სუპი ყველის ტოსტით",
         "description": [],
         "nutrition": "",
         "category": ""
       }
     },
     {
-      "id": "m46anqbrg",
+      "id": "7qrzgt7k9",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%235_Mushroom%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Mushroom Cream-Soup with Cheese Toast",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
+        "name": "სოკოს კრემ-სუპი ყველის ტოსტით",
         "description": [],
         "nutrition": "",
         "category": ""
       }
     },
     {
-      "id": "aflissz05",
+      "id": "esynson0s",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%236_Lentils%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
-        "name": "",
+        "name": "Lenthils Cream-Soup with Cheese Toast",
         "description": [],
         "nutrition": "",
         "category": ""
       },
       "ka": {
-        "name": "",
+        "name": "ოსპის კრემ-სუპი ყველის ტოსტით",
         "description": [],
         "nutrition": "",
         "category": ""
