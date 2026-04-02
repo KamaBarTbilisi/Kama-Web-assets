@@ -142,5 +142,15 @@
         "text": "xedqav amas"
       }
     }
-  ]
+  ],
+  "hero": {
+    "en": {
+      "seo_left": "bla bla  bla ",
+      "seo_right": "bla bla  bla "
+    },
+    "ka": {
+      "seo_left": "bla bla  bla ",
+      "seo_right": "bla bla  bla "
+    }
+  }
 }
