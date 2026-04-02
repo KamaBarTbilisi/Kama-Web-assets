@@ -1,7 +1,7 @@
 {
   "products": [
     {
-      "id": "ffyegyfc2",
+      "id": "vbum53xrw",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Automn%20Chicken%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -43,7 +43,7 @@
       }
     },
     {
-      "id": "z26uy01to",
+      "id": "9pl4jn98f",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Chicken%20Crunchy%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -87,7 +87,7 @@
       }
     },
     {
-      "id": "z98f5kkpo",
+      "id": "fzlxrp77y",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Chicken%20Guacamole%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -126,7 +126,7 @@
       }
     },
     {
-      "id": "siy7oiam9",
+      "id": "h8vawizwe",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Spicy%20Cashew%20Chicken%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -167,7 +167,7 @@
       }
     },
     {
-      "id": "v2heidfhd",
+      "id": "rfdcc14xr",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%235_Garden%20Pesto%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -211,7 +211,7 @@
       }
     },
     {
-      "id": "chddlz1n8",
+      "id": "ygruudafq",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%236_Super%20Vegie%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
@@ -261,13 +261,27 @@
       }
     },
     {
-      "id": "xf34aoeig",
+      "id": "z39eev7s2",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Mediterenean%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
         "name": "Mediterranean Bowl",
-        "description": [],
+        "description": [
+          "Mediterranean grain mix",
+          "marinated grilled chicken breast",
+          "cherry tomatoes",
+          "cucumber",
+          "red onion",
+          "avocado",
+          "feta",
+          "lemon",
+          "parsley",
+          "arugula",
+          "green olives",
+          "pumpkin seeds",
+          "lime-olive vinaigrette."
+        ],
         "nutrition": "",
         "category": ""
       },
@@ -294,13 +308,27 @@
       }
     },
     {
-      "id": "xg9u1fmek",
+      "id": "nvus5b6mu",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Asian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
         "name": "Asian Bowl",
-        "description": [],
+        "description": [
+          "Asian grain mix",
+          "marinated grilled chicken breast",
+          "cherry tomatoes",
+          "cucumber",
+          "red cabbage",
+          "carrot",
+          "broccoli",
+          "zucchini",
+          "avocado",
+          "corn",
+          "parsley",
+          "sesame seeds",
+          "spicy honey-Dijon dressing."
+        ],
         "nutrition": "",
         "category": ""
       },
@@ -327,13 +355,27 @@
       }
     },
     {
-      "id": "d2glui3w6",
+      "id": "n7vgut6sj",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Scandinavian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
         "name": "Scandinavian Bowl",
-        "description": [],
+        "description": [
+          "Scandinavian grain mix",
+          "marinated grilled chicken breast",
+          "cherry tomatoes",
+          "cucumber",
+          "broccoli",
+          "white beans",
+          "avocado",
+          "pear",
+          "arugula",
+          "marinated onion",
+          "walnuts",
+          "parmesan",
+          "spicy cashew pesto."
+        ],
         "nutrition": "",
         "category": ""
       },
@@ -360,13 +402,27 @@
       }
     },
     {
-      "id": "830vuln67",
+      "id": "vlxrkllsk",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Georgian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
         "name": "Georgian Bowl",
-        "description": [],
+        "description": [
+          "Georgian grain mix",
+          "marinated grilled chicken breast",
+          "cherry tomatoes",
+          "cucumber",
+          "broccoli",
+          "avocado",
+          "Jonjoli",
+          "apple",
+          "feta",
+          "arugula",
+          "parsley",
+          "sunflower seeds",
+          "spicy cashew pesto."
+        ],
         "nutrition": "",
         "category": ""
       },
@@ -393,7 +449,7 @@
       }
     },
     {
-      "id": "piln2e9ff",
+      "id": "l5v0x15m7",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Tomato%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -411,7 +467,7 @@
       }
     },
     {
-      "id": "tey4ifso0",
+      "id": "essc3sf39",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Broccoli%201.png",
       "category_ka": "",
       "category_en": "",
@@ -429,7 +485,7 @@
       }
     },
     {
-      "id": "qok90agci",
+      "id": "za3w30lsn",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Pumpkin%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -447,7 +503,7 @@
       }
     },
     {
-      "id": "it471zi2f",
+      "id": "7fc61wlby",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Beetroot%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -465,7 +521,7 @@
       }
     },
     {
-      "id": "40gs406im",
+      "id": "vf0e85ir9",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%235_Mushroom%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -483,7 +539,7 @@
       }
     },
     {
-      "id": "dwzus1qse",
+      "id": "zbxk7ev4y",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%236_Lentils%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
