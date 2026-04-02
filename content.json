@@ -145,12 +145,12 @@
   ],
   "hero": {
     "en": {
-      "seo_left": "SHOTA XEDAV AMAS?",
-      "seo_right": "SHOTA XEDAV AMAS?"
+      "seo_left": "Real taste, no extra additives. At Kama, our priority is maximum freshness. Daily selected vegetables, premium protein, and signature sauces create the perfect balance to fuel your day. Discover a new standard of healthy eating in the heart of Tbilisi.",
+      "seo_right": "Functional nutrition tailored to your goals. Every bowl in the Kama menu is meticulously detailed by nutritionists. High protein, healthy fats, and transparent calorie counts help you manage your diet easily and deliciously. Order balance in every bite."
     },
     "ka": {
-      "seo_left": "SHOTA XEDAV AMAS?",
-      "seo_right": "SHOTA XEDAV AMAS?"
+      "seo_left": "კამა ნამდვილი გემოა, ზედმეტი დანამატების გარეშე. ჩვენი პრიორიტეტი ინგრედიენტების მაქსიმალური სიახლეა. ყოველდღიურად შერჩეული ბოსტნეული, პრემიუმ ცილა და საფირმო სოუსები ქმნის ბალანსს, რომელიც თქვენს დღეს ენერგიით ავსებს. აღმოაჩინეთ ჯანსაღი კვების ახალი სტანდარტი თბილისში.",
+      "seo_right": "ფუნქციური კვება თქვენი მიზნებისთვისაა. კამას მენიუში თითოეული ბოული დეტალურად არის გათვლილი ნუტრიციოლოგების მიერ. მაღალი ცილა, სასარგებლო ცხიმები და გამჭვირვალე კალორიულობა დაგეხმარებათ აკონტროლოთ რაციონი მარტივად და გემრიელად. შეუკვეთეთ ბალანსი ყოველ ლუკმაში."
     },
     "image": "https://github.com/KamaBarTbilisi/Kama-Web-assets/blob/main/Section%201%20-%20Hero%20image.png?raw=true"
   }
