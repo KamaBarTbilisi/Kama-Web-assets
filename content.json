@@ -1,147 +1,317 @@
 {
   "products": [
     {
-      "id": "rjsoptz7s",
+      "id": "1t09fsj88",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Automn%20Chicken%20Salad%201.png",
-      "category_ka": "კრემ-სუპი",
-      "category_en": "Cream-soup",
+      "category_ka": "",
+      "category_en": "",
       "en": {
-        "name": "Kama Salad",
-        "description": [
-          "Fresh greens",
-          "Cherry tomatoes",
-          "Special dressing"
-        ],
-        "nutrition": "250 kcal",
-        "category": "Cream-soup"
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
       },
       "ka": {
-        "name": "კამა სალათი",
-        "description": [
-          "ახალი მწვანილი",
-          "ჩერი პომიდორი",
-          "სპეციალური დრესინგი"
-        ],
-        "nutrition": "250 კკალ",
-        "category": "კრემ-სუპი"
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
       }
     },
     {
-      "id": "k8xx9po2q",
-      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Automn%20Chicken%20Salad%201.png",
-      "category_ka": "ბოული",
-      "category_en": "Bowl",
+      "id": "kj3plb8tb",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Chicken%20Crunchy%20Salad%201.png",
+      "category_ka": "",
+      "category_en": "",
       "en": {
-        "name": "კამა სალათი",
-        "description": [
-          "კამა სალათი"
-        ],
-        "nutrition": "კამა სალათი",
-        "category": "Bowl"
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
       },
       "ka": {
-        "name": "კამა სალათი",
-        "description": [
-          "კამა სალათი"
-        ],
-        "nutrition": "კამა სალათი",
-        "category": "ბოული"
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
       }
     },
     {
-      "id": "b0mqv6p8q",
-      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Automn%20Chicken%20Salad%201.png",
-      "category_ka": "სენდვიჩები",
-      "category_en": "Sandwich",
+      "id": "rk380l6na",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Chicken%20Guacamole%20Salad%201.png",
+      "category_ka": "",
+      "category_en": "",
       "en": {
-        "name": "კამა სალათი",
-        "description": [
-          "კამა სალათი"
-        ],
-        "nutrition": "კამა სალათი",
-        "category": "Sandwich"
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
       },
       "ka": {
-        "name": "კამა სალათი",
-        "description": [
-          "კამა სალათი"
-        ],
-        "nutrition": "კამა სალათი",
-        "category": "სენდვიჩები"
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "ha8op3bri",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Spicy%20Cashew%20Chicken%20Salad%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "cevhoo0eq",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%235_Garden%20Pesto%20Salad%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "s624qe7nr",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%236_Super%20Vegie%20Salad%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "s64boqmb6",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Mediterenean%20Bowl%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "oup974kux",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Asian%20Bowl%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "l4wvsd5dx",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Scandinavian%20Bowl%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "v5x7jfk6g",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Georgian%20Bowl%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "l4rk9n7wp",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Tomato%20Soup%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "1hjl7n2bo",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Broccoli%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "r258231kc",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Pumpkin%20Soup%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "7qod1s5zh",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Beetroot%20Soup%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "m46anqbrg",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%235_Mushroom%20Soup%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      }
+    },
+    {
+      "id": "aflissz05",
+      "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%236_Lentils%20Soup%201.png",
+      "category_ka": "",
+      "category_en": "",
+      "en": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
+      },
+      "ka": {
+        "name": "",
+        "description": [],
+        "nutrition": "",
+        "category": ""
       }
     }
   ],
   "faqs": [
     {
-      "id": "whstmz096",
+      "id": "qh22looip",
       "order": 0,
       "en": {
-        "question": "How do I order?",
-        "answer": "You can order directly through our delivery partners: Wolt, Glovo, and Bolt Food. Simply search for \"Kama\" on your preferred app."
+        "question": "tu xedav amas mashin mushaobs cms",
+        "answer": "tu xedav amas mashin mushaobs cms"
       },
       "ka": {
-        "question": "როგორ შევუკვეთო?",
-        "answer": "შეკვეთა შეგიძლიათ ჩვენი პარტნიორი პლატფორმების საშუალებით: Wolt, Glovo და Bolt Food. უბრალოდ ჩაწერეთ \"კამა\" საძიებო ველში."
+        "question": "tu xedav amas mashin mushaobs cms",
+        "answer": "tu xedav amas mashin mushaobs cms"
       }
     },
     {
-      "id": "wqq4tu0xs",
+      "id": "ozf7b5aqc",
       "order": 1,
       "en": {
-        "question": "Where are you located?",
-        "answer": "Our physical bar is located at 5 Niko Nikoladze St., Tbilisi. Stop by for a fresh bowl and a quick healthy break!"
+        "question": "tu xedav amas mashin mushaobs cms",
+        "answer": "tu xedav amas mashin mushaobs cms"
       },
       "ka": {
-        "question": "სად მდებარეობთ?",
-        "answer": "ჩვენი ფილიალი მდებარეობს თბილისში, ნიკო ნიკოლაძის ქუჩა 5-ში. გვეწვიეთ ჯანსაღი ლანჩისთვის."
-      }
-    },
-    {
-      "id": "qh65d9rha",
-      "order": 2,
-      "en": {
-        "question": "Do you provide nutritional information?",
-        "answer": "Yes. Every item in our menu includes a full breakdown of calories, protein, fats, and carbohydrates to help you track your goals."
-      },
-      "ka": {
-        "question": "მითითებულია თუ არა კერძების კალორიულობა?",
-        "answer": "დიახ. ჩვენი მენიუს თითოეულ პოზიციას ახლავს დეტალური ინფორმაცია: კალორიები, ცილები, ცხიმები და ნახშირწყლები."
-      }
-    },
-    {
-      "id": "jdmd3g5ag",
-      "order": 3,
-      "en": {
-        "question": "Are your ingredients fresh?",
-        "answer": "Absolutely. We source our vegetables daily and prepare our signature dressings in-house to ensure maximum nutritional value and taste."
-      },
-      "ka": {
-        "question": "ინგრედიენტები ყოველდღიურად ახლდება?",
-        "answer": "რა თქმა უნდა. ბოსტნეულს ყოველდღე ვარჩევთ, სოუსებს კი თავად ვამზადებთ, რათა შევინარჩუნოთ პროდუქტის მაქსიმალური კვებითი ღირებულება."
-      }
-    },
-    {
-      "id": "i11nz1zel",
-      "order": 4,
-      "en": {
-        "question": "Do you have vegan or vegetarian options?",
-        "answer": "Yes! We offer a variety of plant-based bowls, such as our Super Veggie Salad, designed to be both filling and nutrient-dense."
-      },
-      "ka": {
-        "question": "გაქვთ ვეგანური ან ვეგეტარიანული კერძები?",
-        "answer": "დიახ! ჩვენ გთავაზობთ მრავალფეროვან მცენარეულ ბოულებს, მაგალითად სუპერ ვეჯი სალათს, რომელიც ნოყიერი და სასარგებლოა."
-      }
-    },
-    {
-      "id": "lmy3hajoh",
-      "order": 5,
-      "en": {
-        "question": "Can I customize my bowl?",
-        "answer": "We offer chef-crafted combinations for the best flavor balance, but you can always check our delivery apps for available add-ons and modifications."
-      },
-      "ka": {
-        "question": "შესაძლებელია თუ არა ბოულის მოდიფიკაცია?",
-        "answer": "ჩვენ გთავაზობთ შეფ-მზარეულის მიერ დაბალანსებულ კომბინაციებს, თუმცა დამატებითი ინგრედიენტების არჩევა ყოველთვის შეგიძლიათ საოპერაციო პლატფორმებზე."
+        "question": "tu xedav amas mashin mushaobs cms",
+        "answer": "tu xedav amas mashin mushaobs cms"
       }
     }
   ],
