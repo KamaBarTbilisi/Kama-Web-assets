@@ -1,13 +1,24 @@
 {
   "products": [
     {
-      "id": "nqsm94fa1",
+      "id": "ffyegyfc2",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Automn%20Chicken%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
         "name": "Autumn Chicken Salad",
-        "description": [],
+        "description": [
+          "Signature salad mix",
+          "marinated grilled chicken breast",
+          "red cabbage",
+          "carrot",
+          "roasted pumpkin",
+          "avocado",
+          "dates",
+          "marinated onion",
+          "sesame seeds",
+          "spicy honey-Dijon dressing."
+        ],
         "nutrition": "",
         "category": ""
       },
@@ -32,13 +43,25 @@
       }
     },
     {
-      "id": "ephhjow4v",
+      "id": "z26uy01to",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Chicken%20Crunchy%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
         "name": "Chicken Crunchy Salad",
-        "description": [],
+        "description": [
+          "Signature salad mix",
+          "marinated grilled chicken breast",
+          "cucumber",
+          "cherry tomatoes",
+          "zucchini",
+          "chickpeas",
+          "avocado",
+          "red apple",
+          "marinated onion",
+          "almonds",
+          "spicy honey-Dijon dressing."
+        ],
         "nutrition": "",
         "category": ""
       },
@@ -64,13 +87,23 @@
       }
     },
     {
-      "id": "8rcknnewl",
+      "id": "z98f5kkpo",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Chicken%20Guacamole%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
         "name": "Chicken Guacamole Salad",
-        "description": [],
+        "description": [
+          "Signature salad mix",
+          "marinated grilled chicken breast",
+          "red cabbage",
+          "cherry tomatoes",
+          "red onion",
+          "guacamole",
+          "lavash chips",
+          "sunflower seeds",
+          "lime-cilantro vinaigrette."
+        ],
         "nutrition": "",
         "category": ""
       },
@@ -93,13 +126,24 @@
       }
     },
     {
-      "id": "vfk8tw40g",
+      "id": "siy7oiam9",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Spicy%20Cashew%20Chicken%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
         "name": "Spicy Cashew Chicken Salad",
-        "description": [],
+        "description": [
+          "Signature salad mix",
+          "marinated grilled chicken breast",
+          "sweet potato",
+          "broccoli",
+          "feta",
+          "avocado",
+          "dried plums",
+          "almonds",
+          "red apple",
+          "spicy cashew pesto."
+        ],
         "nutrition": "",
         "category": ""
       },
@@ -123,13 +167,26 @@
       }
     },
     {
-      "id": "czl7u1pwu",
+      "id": "v2heidfhd",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%235_Garden%20Pesto%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
         "name": "Garden Pesto Salad",
-        "description": [],
+        "description": [
+          "Signature salad mix",
+          "chickpeas",
+          "red beans",
+          "cherry tomatoes",
+          "broccoli",
+          "carrot",
+          "avocado",
+          "feta",
+          "green apple",
+          "Jonjoli",
+          "almonds",
+          "spicy cashew pesto."
+        ],
         "nutrition": "",
         "category": ""
       },
@@ -154,13 +211,29 @@
       }
     },
     {
-      "id": "lh403lwmi",
+      "id": "chddlz1n8",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%236_Super%20Vegie%20Salad%201.png",
       "category_ka": "",
       "category_en": "",
       "en": {
         "name": "Super Vegie Salad",
-        "description": [],
+        "description": [
+          "Signature salad mix",
+          "cherry tomatoes",
+          "cucumber",
+          "red cabbage",
+          "red onion",
+          "carrot",
+          "mushrooms",
+          "red beans",
+          "quinoa mix",
+          "avocado",
+          "parmesan",
+          "pear",
+          "Jonjoli",
+          "walnuts",
+          "balsamic vinaigrette."
+        ],
         "nutrition": "",
         "category": ""
       },
@@ -188,7 +261,7 @@
       }
     },
     {
-      "id": "3muixqm5p",
+      "id": "xf34aoeig",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Mediterenean%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
@@ -221,7 +294,7 @@
       }
     },
     {
-      "id": "cxxxcra0k",
+      "id": "xg9u1fmek",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Asian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
@@ -254,7 +327,7 @@
       }
     },
     {
-      "id": "au1apmvb4",
+      "id": "d2glui3w6",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Scandinavian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
@@ -287,7 +360,7 @@
       }
     },
     {
-      "id": "2b7dsp39q",
+      "id": "830vuln67",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Georgian%20Bowl%201.png",
       "category_ka": "",
       "category_en": "",
@@ -320,7 +393,7 @@
       }
     },
     {
-      "id": "xli9rf8jh",
+      "id": "piln2e9ff",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%231_Tomato%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -338,7 +411,7 @@
       }
     },
     {
-      "id": "uslshdfw1",
+      "id": "tey4ifso0",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%232_Broccoli%201.png",
       "category_ka": "",
       "category_en": "",
@@ -356,7 +429,7 @@
       }
     },
     {
-      "id": "z6qaeg427",
+      "id": "qok90agci",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%233_Pumpkin%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -374,7 +447,7 @@
       }
     },
     {
-      "id": "1wzuv3vb4",
+      "id": "it471zi2f",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%234_Beetroot%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -392,7 +465,7 @@
       }
     },
     {
-      "id": "7qrzgt7k9",
+      "id": "40gs406im",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%235_Mushroom%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
@@ -410,7 +483,7 @@
       }
     },
     {
-      "id": "esynson0s",
+      "id": "dwzus1qse",
       "image": "https://github.com/KamaBarTbilisi/Landing-Page/blob/95d1a1f9cfbd1d7a543bd0652aa739db369001b4/%236_Lentils%20Soup%201.png",
       "category_ka": "",
       "category_en": "",
